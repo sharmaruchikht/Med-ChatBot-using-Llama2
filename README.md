@@ -15,4 +15,6 @@ Output:
 <img width="700" alt="image" src="https://github.com/sharmaruchikht/MedChatBot-using-Llama2/assets/51285205/5f0357d9-21ff-4b13-a1a9-834ccd58dbee">
 
 
+
+
 Refer to https://www.youtube.com/watch?v=kXuHxI5ZcG0&t=375s for a better understanding of the project
